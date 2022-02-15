@@ -1,6 +1,7 @@
 #Question 1
 
 a=str(input("Enter any string: \n"))
+a=a.lower()
 list=a.split()
 dict={} #an empty dictionary
 if list.__len__()==1:   #check for single character or word
