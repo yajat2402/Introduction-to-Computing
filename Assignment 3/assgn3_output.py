@@ -4,7 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ====== RESTART: C:\Users\yajat\OneDrive\Desktop\Python\Assignment 3\Q1.py ======
 Enter any string: 
 Yajat
-{'Y': 1, 'a': 2, 'j': 1, 't': 1}
+{'y': 1, 'a': 2, 'j': 1, 't': 1}
 
 ====== RESTART: C:/Users/yajat/OneDrive/Desktop/Python/Assignment 3/Q2.py ======
 Enter the day: 
