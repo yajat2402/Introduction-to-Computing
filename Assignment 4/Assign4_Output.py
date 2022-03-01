@@ -57,8 +57,8 @@ The name of the student is Yajat  and SID is 21103041
 Object destroyed
 
 ====== RESTART: C:\Users\yajat\OneDrive\Desktop\Python\Assignment 4\Q5.py ======
-(a) The updated salary of Yajat is 70000
-(b) Record of Varun deleted
+(a) The updated salary of Mehak is 70000
+(b) Record of Viren deleted
 
 ====== RESTART: C:\Users\yajat\OneDrive\Desktop\Python\Assignment 4\Q6.py ======
 Enter the word: 
